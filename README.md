@@ -17,9 +17,9 @@
 - 🥅 Résolution 2021: Partager plus souvent mes projets.
 - ⚡ P.S.: Freeze Corleone >>>
 
-### Spotify Playing 🎧
+### Mes écoutes 🎧
 
-[<img src="https://ryanftnee.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![67e772f270eeff5f4af6e39cf7ecd2c1 1000x1000x1](https://user-images.githubusercontent.com/56584078/111913432-57435c00-8a6e-11eb-9423-c8a7eba18c13.jpg)](https://open.spotify.com/user/21bjohhejkganlnu62efejtwy)
 
 ### Contactez-moi:
 

@@ -1,3 +1,5 @@
+![Bleu Océan Élégant YouTube Chaîne Art](https://user-images.githubusercontent.com/56584078/111913294-cbc9cb00-8a6d-11eb-92b6-36b94a26fb1b.png)
+
 ### Bonjour à tous, je suis Ryan - aka [ImSugoii][website] 👋
 
 ### Accéder à mon portfolio ?
@@ -82,7 +84,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)

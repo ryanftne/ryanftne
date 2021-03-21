@@ -1,6 +1,6 @@
 ### Bonjour à tous, je suis Ryan - aka [ImSugoii][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ryanfontaine.fr)
+[![Website](https://ryanfontaine.fr/wp-content/uploads/2021/02/cropped-cropped-LogoMakr-3FpW9h-136x42.png)](https://ryanfontaine.fr)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## Je suis étudiant et développeur !!

@@ -19,7 +19,7 @@
 
 ### Mes écoutes 🎧
 
-[![67e772f270eeff5f4af6e39cf7ecd2c1 1000x1000x1](https://user-images.githubusercontent.com/56584078/111913432-57435c00-8a6e-11eb-9423-c8a7eba18c13.jpg)](https://open.spotify.com/user/21bjohhejkganlnu62efejtwy)
+[![67e772f270eeff5f4af6e39cf7ecd2c1 1000x1000x1](https://user-images.githubusercontent.com/56584078/111913530-d2a50d80-8a6e-11eb-9169-8fde91fa608b.jpg)](https://open.spotify.com/user/21bjohhejkganlnu62efejtwy)
 
 ### Contactez-moi:
 

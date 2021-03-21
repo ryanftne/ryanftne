@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Set Up Guide
 
 ## Spotify
@@ -86,3 +87,6 @@ Try checking out the functions tab in vercel, linked as:
 </details><br>
 
 You will see a log there, and most issues can be resolved by ensuring you have the correct variables from setup.
+=======
+
+>>>>>>> 1914ca0868eb6d5da6221cca47830282f6ef25de

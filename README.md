@@ -1,21 +1,21 @@
 ![kirua](https://user-images.githubusercontent.com/56584078/111914219-65df4280-8a71-11eb-8d81-505faba740c3.PNG)
 
 
-### Bonjour à tous, je suis Ryan - aka [ImSugoii][website] 👋
+### Bonjour à tous, je suis Ryan - ou [ImSugoii][website]💻
 
-### Accéder à mon portfolio ?
+### Accéder à mon portfolio ? 
 
 [![Website](https://ryanfontaine.fr/wp-content/uploads/2021/02/cropped-cropped-LogoMakr-3FpW9h-136x42.png)](https://ryanfontaine.fr)
 
 
-## Je suis étudiant, alternant et développeur !!
+## Je suis étudiant, alternant et développeur.
 
 - 🔭 Je suis actuellement en train d'apprendre React.js !
-- 🤖 Mes langages préférés : PHP, Java, JavaScript. 🧙
-- 👨‍🎓 J'ai des connaissances en sécurité informatique et réseaux.
+- 🤖 Mes langages préférés : PHP, Java et JavaScript. 🧙
+- 👨‍🎓 J'apprends aussi la sécurité informatique et les réseaux.
 - 👯 Je cherche à collaborer avec d'autres créateurs.
-- 🥅 Résolution 2021: Partager plus souvent mes projets.
-- ⚡ P.S.: Freeze Corleone >>>
+- 🥅 Résolution : Partager plus souvent mes projets.
+- ⚡ Formation : Bachelor 3ème année développement Full stack et DevOps.
 
 ### Mes écoutes 🎧
 

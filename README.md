@@ -1,7 +1,7 @@
 ![kirua](https://user-images.githubusercontent.com/56584078/111914219-65df4280-8a71-11eb-8d81-505faba740c3.PNG)
 
 
-### Bonjour à tous, je suis Ryan - ou [ImSugoii][website]💻
+### Bonjour à tous, je m'appelle Ryan 💻
 
 ### Accéder à mon portfolio ? 
 

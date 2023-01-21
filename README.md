@@ -1,21 +1,13 @@
 ![kirua](https://user-images.githubusercontent.com/56584078/111914219-65df4280-8a71-11eb-8d81-505faba740c3.PNG)
 
 
-### Bonjour à tous, je m'appelle Ryan 💻
-
-### Accéder à mon portfolio ? 
-
-[![Website](https://ryanfontaine.fr/wp-content/uploads/2021/02/cropped-cropped-LogoMakr-3FpW9h-136x42.png)](https://ryanfontaine.fr)
+### Salut, je m'appelle Ryan
 
 
 ## Je suis étudiant, alternant et développeur.
 
-- 🔭 Je suis actuellement en train d'apprendre React.js !
-- 🤖 Mes langages préférés : PHP, Java et JavaScript. 🧙
-- 👨‍🎓 J'apprends aussi la sécurité informatique et les réseaux.
-- 👯 Je cherche à collaborer avec d'autres créateurs.
-- 🥅 Résolution : Partager plus souvent mes projets.
-- ⚡ Formation : Bachelor 3ème année développement Full stack et DevOps.
+- 🔭 Je suis actuellement en train d'apprendre React.js
+- ⚡ Formation : Mastère dev bigdata & IA.
 
 ### Mes écoutes 🎧
 
@@ -23,9 +15,6 @@
 
 ### Contactez-moi:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -55,10 +44,8 @@
 
 ---
 
-[website]: https://ryanfontaine.fr
+
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/Ryanfontaine7
-[youtube]: https://www.youtube.com/channel/UCCIdHPviLarPhg_e-D_Irdg
 [instagram]: https://www.instagram.com/ryanftne/
 [linkedin]: https://www.linkedin.com/in/ryan-fontaine-901785113/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt

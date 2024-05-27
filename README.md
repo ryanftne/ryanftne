@@ -6,8 +6,7 @@
 
 ## Je suis étudiant, alternant et développeur.
 
-- 🔭 Je suis actuellement en train d'apprendre React.js
-- ⚡ Formation : Mastère dev bigdata & IA.
+  Formation : Mastère dev bigdata & IA.
 
 ### Mes écoutes 🎧
 

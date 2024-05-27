@@ -9,11 +9,6 @@
 
 [![67e772f270eeff5f4af6e39cf7ecd2c1 1000x1000x1](https://user-images.githubusercontent.com/56584078/111913530-d2a50d80-8a6e-11eb-9169-8fde91fa608b.jpg)](https://open.spotify.com/user/21bjohhejkganlnu62efejtwy) [![91q8p4C+xEL _SS500_](https://user-images.githubusercontent.com/56584078/111913861-07659480-8a70-11eb-89cd-0fc176456262.jpg)](https://open.spotify.com/user/21bjohhejkganlnu62efejtwy) [![Capture-d’écran-2020-04-26-à-15 55 08-1024x1021](https://user-images.githubusercontent.com/56584078/111914032-b6a26b80-8a70-11eb-94eb-1217137faa19.png)](https://open.spotify.com/user/21bjohhejkganlnu62efejtwy)
 
-### Contactez-moi:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Langages et outils maitrisés:
